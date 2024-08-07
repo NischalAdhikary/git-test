@@ -1,1 +1,2 @@
-this is my second file for git
+this is my second file for git.
+Adding more content to file 2
